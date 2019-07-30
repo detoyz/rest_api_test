@@ -59,3 +59,5 @@ repsonse:
 	"response": "OK"
 }
 
+
+Codacy Badge
